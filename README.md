@@ -16,7 +16,7 @@ Version 0.2.2
 + Higher resolution graphics.
 + Reformatted plant code.
 + Organized category.
-! Introduced crash from organized category.
+\n! Introduced crash from organized category.
 
 Version 0.2.1
 + Changed potassium hydroxide production to be from banana processing instead of water.
