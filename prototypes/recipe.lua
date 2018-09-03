@@ -206,7 +206,7 @@ data:extend({
       energy_required = 5,
       enabled = false,
       ingredients = {
-        {"solid-resin-1", 2},
+        {"bob-resin-oil", 2},
         {"potassium-hydroxide", 5},
       },
       results = {
@@ -218,7 +218,7 @@ data:extend({
       energy_required = 7.5,
       enabled = false,
       ingredients = {
-        {"solid-resin-1", 4},
+        {"bob-resin-oil", 4},
         {"potassium-hydroxide", 10},
       },
       results = {
